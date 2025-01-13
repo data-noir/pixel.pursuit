@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Stack</title>
+    <link rel="stylesheet" href="assets/styles/styles.css">
+</head>
+<body>
+    <h3>Tech Stack</h3>
+    <div class="category">
+        <h4>Data Analysis</h4>
+        <div class="skill">
+        <h5>Python (Pandas, NumPy)</h5>
+        <p>Comfortable with data manipulation and analysis using Python libraries like Pandas and NumPy for cleaning, transforming, and analyzing data.</p>
+    </div>
+    <div class="skill">
+        <h5>SQL</h5>
+        <p>Proficient in writing complex SQL queries to extract, filter, and aggregate data from relational databases such as PostgreSQL, and Snowflake SQL.</p>
+    </div>
+    <div class="skill">
+        <h5>Excel/Google Sheets</h5>
+        <p>Advanced proficiency in Excel and Google Sheets, including functions like PivotTables, VLOOKUP, advanced formulas, and data visualization features.</p>
+    </div>
+</div>
+<div class="category">
+    <h4>Data Visualization</h4>
+    <div class="skill">
+        <h5>Looker</h5>
+        <p>Experienced in creating interactive dashboards and visualizations in Looker to explore and communicate insights from data effectively.</p>
+    </div>
+</div>
+<div class="category">
+    <h4>Machine Learning</h4>
+    <div class="skill">
+        <h5>scikit-learn</h5>
+        <p>Familiar with foundational machine learning concepts and techniques, including classification and feature engineering.</p>
+    </div>
+</div>
+<div class="category">
+    <h4>Data Transformation</h4>
+    <div class="skill">
+        <h5>dbt (Data Build Tool)</h5>
+        <p>Familiar with dbt for transforming and modeling data within data warehouses, helping create repeatable data pipelines and ensuring data quality.</p>
+    </div>
+</div>
+<div class="category">
+    <h4>Version Control & Collaboration</h4>
+    <div class="skill">
+        <h5>Git/GitHub</h5>
+        <p>Proficient in using Git for version control, collaborating on GitHub, and managing repositories for code sharing and project collaboration.</p>
+    </div>
+    <div class="skill">
+        <h5>VS Code</h5>
+        <p>Comfortable using Visual Studio Code for coding, debugging, and version control integration, leveraging extensions like Python and Git for efficient development.</p>
+    </div>
+</div>
+</body>
+</html>
