@@ -12,8 +12,8 @@ This is my personal data analyst portfolio showcasing my skills and projects in 
 - Looker
 
 ## Projects
-- [Exploratory Data Analysis with Python](https://github.com/data-noir/pixel.pursuit)
-- [Machine Learning - Titanic Challenge](https://github.com/data-noir/pixel.pursuit)
+- [Exploratory Data Analysis with Python](https://github.com/data-noir/pixel.pursuit/blob/primary/notebooks/getting-started-with-titanic.ipynb)
+- [Machine Learning - Titanic Challenge]([https://github.com/data-noir/pixel.pursuit](https://github.com/data-noir/pixel.pursuit/blob/primary/notebooks/eda-netflix-movies-and-tv-shows.ipynb))
 
 ## Contact
 Feel free to reach out via email at: [stanoeva.e@yahoo.com](mailto:stanoeva.e@yahoo.com)
