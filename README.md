@@ -1,4 +1,4 @@
-# My Data Analyst Portfolio
+# My Data Portfolio
 
 ## Description
 This is my personal data analyst portfolio showcasing my skills and projects in data analysis, machine learning, and visualization.
